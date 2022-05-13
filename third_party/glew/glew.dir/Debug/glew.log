@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/OpenGL/hand-graphics-homework-main/third_party/glew/CMakeLists.txt
+  glew.c
+    正在创建库 D:/OpenGL/hand-graphics-homework-main/lib/Debug/glew32d.lib 和对象 D:/OpenGL/hand-graphics-homework-main/lib/Debug/glew32d.exp
+  glew.vcxproj -> D:\OpenGL\hand-graphics-homework-main\bin\Debug\glew32d.dll

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGL\hand-graphics-homework-main\CMakeFiles\c09c128276ebd50f0648d620b90a7488\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BEE03FDD-492D-3550-A463-5D1FC39B522C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

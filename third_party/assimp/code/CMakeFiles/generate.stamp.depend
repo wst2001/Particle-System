@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/OpenGL/hand-graphics-homework-main/third_party/assimp/cmake-modules/FindRT.cmake
+D:/OpenGL/hand-graphics-homework-main/third_party/assimp/code/CMakeLists.txt
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake

@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+D:/OpenGL/hand-graphics-homework-main/third_party/glew/CMakeLists.txt
+D:/OpenGL/hand-graphics-homework-main/third_party/glew/glew.pc.in
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindOpenGL.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake

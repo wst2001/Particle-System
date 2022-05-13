@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+D:/OpenGL/hand-graphics-homework-main/third_party/glfw/CMakeLists.txt
+D:/OpenGL/hand-graphics-homework-main/third_party/glfw/src/glfw3.pc.in
+D:/OpenGL/hand-graphics-homework-main/third_party/glfw/src/glfw3Config.cmake.in
+D:/OpenGL/hand-graphics-homework-main/third_party/glfw/src/glfw_config.h.in
+D:/Program Files/CMake/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/Program Files/CMake/share/cmake-3.22/Modules/CMakeDependentOption.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/CheckIncludeFile.c.in
+D:/Program Files/CMake/share/cmake-3.22/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/FindThreads.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake

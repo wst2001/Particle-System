@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/OpenGL/hand-graphics-homework-main/third_party/glew/CMakeLists.txt
+  glew.c
+  glew_s.vcxproj -> D:\OpenGL\hand-graphics-homework-main\lib\Debug\libglew32d.lib

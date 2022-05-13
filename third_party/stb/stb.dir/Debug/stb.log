@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/OpenGL/hand-graphics-homework-main/third_party/stb/CMakeLists.txt
+  stb_impl.cpp
+  stb.vcxproj -> D:\OpenGL\hand-graphics-homework-main\third_party\stb\Debug\stbd.lib
